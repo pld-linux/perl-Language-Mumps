@@ -1,6 +1,6 @@
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	Language
-%define	pnam	Mumps
+%define		pdir	Language
+%define		pnam	Mumps
 Summary:	Language::Mumps perl module
 Summary(pl):	Modu³ perla Language::Mumps
 Name:		perl-Language-Mumps
