@@ -4,7 +4,7 @@
 Summary:	Language::Mumps perl module
 Summary(pl):	Modu³ perla Language::Mumps
 Name:		perl-Language-Mumps
-Version:	1.06
+Version:	1.07
 Release:	1
 License:	free use, but modifications must be notified to the author
 Group:		Development/Languages/Perl
