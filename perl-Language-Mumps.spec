@@ -2,7 +2,7 @@
 %define		pdir	Language
 %define		pnam	Mumps
 Summary:	Language::Mumps perl module
-Summary(pl):	Modu³ perla Language::Mumps
+Summary(pl.UTF-8):   ModuÅ‚ perla Language::Mumps
 Name:		perl-Language-Mumps
 Version:	1.07
 Release:	2
@@ -20,10 +20,10 @@ This package implements a MUMPS to Perl compiler. A script for
 interpreting and running MUMPS programs is now supplied. The standard
 library is based on MumpsVM, another free MUMPS implementation.
 
-%description -l pl
-Ten pakiet jest implementacj± MUMPS. Do³±czony jest tak¿e skrypt do
-interpretowania i uruchamiania programów w MUMPS. Standardowa
-biblioteka jest bazowana na MumpsVM, innej wolnodostêpnej
+%description -l pl.UTF-8
+Ten pakiet jest implementacjÄ… MUMPS. DoÅ‚Ä…czony jest takÅ¼e skrypt do
+interpretowania i uruchamiania programÃ³w w MUMPS. Standardowa
+biblioteka jest bazowana na MumpsVM, innej wolnodostÄ™pnej
 implementacji MUMPS.
 
 %prep
