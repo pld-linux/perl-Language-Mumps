@@ -2,7 +2,7 @@
 %define		pdir	Language
 %define		pnam	Mumps
 Summary:	Language::Mumps perl module
-Summary(pl.UTF-8):   Moduł perla Language::Mumps
+Summary(pl.UTF-8):	Moduł perla Language::Mumps
 Name:		perl-Language-Mumps
 Version:	1.07
 Release:	2
