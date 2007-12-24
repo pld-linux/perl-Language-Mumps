@@ -1,15 +1,16 @@
 %include	/usr/lib/rpm/macros.perl
 %define		pdir	Language
 %define		pnam	Mumps
-Summary:	Language::Mumps perl module
-Summary(pl.UTF-8):	Moduł perla Language::Mumps
+Summary:	Language::Mumps Perl module to translate MUMPS programs to Perl scripts
+Summary(pl.UTF-8):	Moduł Perla Language::Mumps tłumaczący programy w MUMPS na skrypty Perla
 Name:		perl-Language-Mumps
 Version:	1.08
 Release:	1
 License:	free use, but modifications must be notified to the author
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
+Source0:	http://www.cpan.org/modules/by-module/Language/%{pdir}-%{pnam}-%{version}.tar.gz
 # Source0-md5:	8bfae9bbbc7588f30196b28000dd4fc9
+URL:		http://search.cpan.org/dist/Language-Mumps/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
 BuildArch:	noarch
