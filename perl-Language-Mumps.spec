@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.perl
 %define		pdir	Language
 %define		pnam	Mumps
 Summary:	Language::Mumps Perl module to translate MUMPS programs to Perl scripts
