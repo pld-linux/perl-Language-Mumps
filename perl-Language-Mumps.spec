@@ -4,7 +4,7 @@ Summary:	Language::Mumps Perl module to translate MUMPS programs to Perl scripts
 Summary(pl.UTF-8):	Moduł Perla Language::Mumps tłumaczący programy w MUMPS na skrypty Perla
 Name:		perl-Language-Mumps
 Version:	1.08
-Release:	1
+Release:	2
 License:	free use, but modifications must be notified to the author
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Language/%{pdir}-%{pnam}-%{version}.tar.gz
